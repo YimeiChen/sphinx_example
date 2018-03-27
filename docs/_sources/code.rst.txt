@@ -1,0 +1,5 @@
+Auto Generated Documentation
+============================
+.. automodule:: hw1_liz_chen
+		:members:
+		:undoc-members:

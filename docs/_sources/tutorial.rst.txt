@@ -1,0 +1,4 @@
+My Code Tutorial
+================
+
+Simply run hw1_liz_chen.py in the code directory.
